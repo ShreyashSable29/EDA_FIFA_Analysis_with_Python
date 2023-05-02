@@ -16,3 +16,5 @@ For this analysis we will be using the python pandas library, numpy, seaborn and
 ### Position — Position on the pitch
 ### Overall — Player’s Overall Rating
 
+## You can directly download the DataSet from below link :-
+https://thecleverprogrammer.com/wp-content/uploads/2020/05/data.csv
