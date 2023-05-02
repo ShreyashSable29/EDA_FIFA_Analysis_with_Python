@@ -5,14 +5,14 @@ In this project we will perform simple exploratory data analysis of the FIFA 19 
 
 For this analysis we will be using the python pandas library, numpy, seaborn and matplotlib. The dataset contains 89 columns but we will limit our analysis to the following ten columns:
 
-Name — Name of Player
-Age — Age of Player
-Nationality — Nationality of Player
-Value — Current Market Value
-Wage — Wage of Player
-Preferred Foot — Preferred foot of player
-Height — Height of Player
-Weight — Weight of player
-Position — Position on the pitch
-Overall — Player’s Overall Rating
+### Name — Name of Player
+### Age — Age of Player
+### Nationality — Nationality of Player
+### Value — Current Market Value
+### Wage — Wage of Player
+### Preferred Foot — Preferred foot of player
+### Height — Height of Player
+### Weight — Weight of player
+### Position — Position on the pitch
+### Overall — Player’s Overall Rating
 
